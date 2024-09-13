@@ -1,0 +1,24 @@
+# Python-specific
+*.pyc
+*.pyo
+*__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE-specific
+*.vscode/
+.idea/
+
+# Build and test results
+build/
+dist/
+.tox/
+.eggs/
+coverage.py
+.coverage
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
